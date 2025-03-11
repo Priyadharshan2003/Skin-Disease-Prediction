@@ -19,12 +19,9 @@ __pycache__/
 
 # Ignore data and model files (if not tracked)
 data/
-model/
-*.h5
 *.hdf5
 *.pkl
 *.csv
-*.json
 
 # Ignore Streamlit cache and logs
 .streamlit/

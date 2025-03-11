@@ -1,0 +1,30 @@
+{
+    "Melanoma": {
+        "description": "Melanoma is a serious form of skin cancer. Immediate medical attention is required.",
+        "remedies": [],
+        "caution": "High risk. Consult a dermatologist immediately."
+    },
+    "Squamous cell carcinoma": {
+        "description": "A type of skin cancer that requires medical treatment.",
+        "remedies": [],
+        "caution": "High risk. Consult a dermatologist immediately."
+    },
+    "Actinic keratosis": {
+        "description": "A precancerous skin condition caused by sun exposure.",
+        "remedies": [
+            "Use sunscreen with SPF 30+ daily.",
+            "Apply moisturizers to keep skin hydrated.",
+            "Avoid direct sun exposure."
+        ],
+        "caution": "Moderate risk. Consult a dermatologist if condition worsens."
+    },
+    "Atopic Dermatitis": {
+        "description": "A chronic skin condition causing itchy and inflamed skin.",
+        "remedies": [
+            "Use fragrance-free moisturizers.",
+            "Avoid triggers like harsh soaps and detergents.",
+            "Apply corticosteroid creams as prescribed."
+        ],
+        "caution": "Low risk. Consult a dermatologist if symptoms persist."
+    }
+}
