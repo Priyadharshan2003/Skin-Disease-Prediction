@@ -1,0 +1,9 @@
+streamlit
+tensorflow
+plotly
+pandas
+numpy
+Pillow
+requests
+geopy
+googlemaps
